@@ -1,5 +1,0 @@
-This is a dummy test file created for testing purposes.
-It can be safely removed.
-
-Added some dummy changes on a new branch!
-Timestamp: 2026-02-04
